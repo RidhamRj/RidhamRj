@@ -37,6 +37,7 @@ const Ridham = {
       }
   }
 }
+```
 
 ## 🛠️ Technologies and Tools I use:
 
