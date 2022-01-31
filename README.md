@@ -14,13 +14,16 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working on `Something Intresting`.
-- 🌱 I’m currently learning NextJS & Typescript
-- 👯 I’m looking to collaborate for `Dev Projects`
-- 🤔 I’m looking for help with `Competitive Programming`
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-- ⚡ Fun fact: I waste most of my time playing games
+<ul>
+  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
+  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
+  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
+  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
+  <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
+  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+</ul>
+
 
 #### A little more about me
 ```javascript
