@@ -20,6 +20,24 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I waste most of my time playing games
 
+#### A little more about me
+```javascript
+const Ridham = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python" ],
+  technologies: {
+      frontend: {
+          js: ["React JS", "Next JS" , "Typescript" ],
+          css: ["Tailwind CSS", "SCSS/SASS"]
+      },
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
+  }
+}
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
