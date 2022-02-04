@@ -29,6 +29,7 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 ```javascript
 const Ridham = {
   pronouns: "He" | "Him",
+  age: 15 ;
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python" ],
   technologies: {
