@@ -16,6 +16,11 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 </p>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<br>
+  <a align='center' href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
+  
 **Talking about Personal Stuffs:**
 <ul>
   <li>- 🔭 I’m currently working on `Something Intresting`.</li>
@@ -69,9 +74,9 @@ const Ridham = {
  
  
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/codergirl-al/codergirl-al/output/github-contribution-grid-snake.svg)
-  
-  
+![Contribution grid snake animation](https://raw.githubusercontent.com/ridhamrj/ridhamrj/output/github-contribution-grid-snake.svg)
+
+
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RidhamRj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ridham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhamRj&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
